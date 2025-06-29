@@ -80,6 +80,7 @@ function App() {
             setMessage={setMessage}
             onSubmit={handleSubmit}
             isLoading={isLoading}
+            currentEmotion={emotion}
           />
           
           {(response || isLoading) && (
