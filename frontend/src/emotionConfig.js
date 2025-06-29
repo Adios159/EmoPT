@@ -1,11 +1,11 @@
 // 감정별 테마 컬러 시스템
 export const emotionColors = {
-  슬픔: "#dbeafe",
-  기쁨: "#fef9c3", 
-  분노: "#fee2e2",
-  불안: "#e0e7ff",
-  중립: "#f3f4f6",
-  행복: "#dcfce7"
+  슬픔: "#bfdbfe",
+  기쁨: "#fef3c7",
+  분노: "#fecaca",
+  불안: "#c7d2fe",
+  중립: "#e5e7eb",
+  행복: "#bbf7d0"
 };
 
 export const emotionConfig = {
