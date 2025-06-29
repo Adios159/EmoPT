@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 나눔고딕 폰트를 전체 앱에 적용 */
+body {
+  font-family: 'Nanum Gothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
 /* Phase 3.1: 글래스모피즘 및 시각적 개선 */
 
 /* 글래스모피즘 컨테이너 */
